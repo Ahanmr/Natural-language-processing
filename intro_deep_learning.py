@@ -1,3 +1,5 @@
+import numpy as np
+from numpy import array
 
 input_data=[array([3, 5]), array([ 1, -1]), array([0, 0]), array([8, 4])]
 weights={'node_0': array([2, 4]), 'node_1': array([ 4, -5]), 'output': array([2, 7])}
